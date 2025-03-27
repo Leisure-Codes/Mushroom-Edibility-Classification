@@ -5,7 +5,7 @@ This project classifies mushrooms as edible or poisonous using their physical at
 This project aims to classify mushrooms as edible or poisonous based on their physical attributes. Using the Mushroom Dataset from UCI's Machine Learning Repository, we build predictive models to assist foragers and researchers in identifying toxic mushrooms.
 
 ## Data Source
-[https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset] (Mushroom Dataset, UCI Machine Learning Repository)
+[Mushroom Dataset, UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset)
 
 This dataset includes 61069 hypothetical mushrooms with caps based on 173 species (353 mushrooms per species italicized text). Each mushroom is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended (the latter class was combined with the poisonous class).
 
