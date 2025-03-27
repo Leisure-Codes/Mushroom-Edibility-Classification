@@ -73,7 +73,7 @@ This dataset includes 61069 hypothetical mushrooms with caps based on 173 specie
 - Visualization helped to identify how mushrooms with specific characteristics (e.g., odor) are more likely to be poisonous.
 - While machine learning was not applied, this data analysis provided a solid understanding of which features matter most in classifying mushrooms.
 
-### Breakdown of Technologies Used in Each Step:
+## Breakdown of Technologies Used in Each Step:
 
 - **Data Collection and Preprocessing:**
   - `pandas` is used to load and preprocess the dataset (handle missing values, encode categorical features).
