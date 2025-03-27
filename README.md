@@ -123,7 +123,7 @@ This README is now more detailed and includes the specific technologies used for
 3. Open the project in Jupyter Notebook or Google Colab.
 4. Run the notebook file `(mushroom_classification_analysis.ipynb)` to start analyzing the dataset.
 
-##Future Studies
+## Future Studies
 1. Explore more advanced data transformation techniques such as feature engineering or feature selection methods.
 
 2. Investigate using machine learning models like Decision Trees or Random Forests for automated classification of mushrooms based on their attributes.
