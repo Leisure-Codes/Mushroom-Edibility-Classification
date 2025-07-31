@@ -1,6 +1,19 @@
 # Mushroom-Edibility-Classification
 This project classifies mushrooms as edible or poisonous using their physical attributes. By analyzing a dataset with categorical features, the project employs data visualization and preprocessing techniques. A decision-tree classification model is used to distinguish between edible and poisonous mushrooms, providing an interpretable solution.
 
+# The Problem and Its Impact
+## Goal : Tackling Mushroom Poisoning Risks and Saving Lives Through Better Identification
+Mushroom foraging is popular worldwide, but it comes with a dangerous risk: misidentifying poisonous mushrooms as edible. According to the World Health Organization (WHO), thousands of mushroom poisoning cases are reported annually, often resulting in severe illness or death. Many poisonous mushrooms closely resemble edible varieties, making visual identification difficult, especially for amateur foragers.
+
+This project addresses this real-world challenge by analyzing the physical characteristics of mushrooms and identifying which features (such as odor, spore print color, and gill size) are most indicative of toxicity. By understanding these patterns, foragers and researchers can:
+
+- Reduce the risk of mushroom poisoning by learning which features to look for in toxic mushrooms.
+
+- Educate the public on safe foraging practices with data-driven insights.
+
+- Support field guides and mobile apps that could integrate these findings to help users identify mushrooms on the spot.
+
+For instance, an app powered by this project's insights could allow users to enter mushroom features (e.g., "white gills, fishy odor") and receive a safety recommendation in seconds, potentially saving lives.
 ## Description
 This project aims to classify mushrooms as edible or poisonous based on their physical attributes. Using the Mushroom Dataset from UCI's Machine Learning Repository, we build predictive models to assist foragers and researchers in identifying toxic mushrooms.
 
